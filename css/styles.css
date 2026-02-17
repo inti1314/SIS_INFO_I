@@ -1,0 +1,77 @@
+body {
+    background-color: #111111d6;   /* negro oscuro */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+/* Header */
+header {
+    background-color: #1c1c1cc3;
+    color: #d01010bc;  /* rojo intenso */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navegación */
+nav {
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #b29a9a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Secciones */
+section {
+    background-color: #1c1c1c;  /* gris oscuro */
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5px;
+}
+
+/* Imagen */
+img {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    border-radius: 5px;
+}
+
+/* FORMULARIO CENTRADO */
+form {
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* Input */
+input {
+    padding: 5px;
+}
+
+/* Botón */
+button {
+    padding: 8px 15px;
+    background-color: #ff0000bc;
+    color: rgba(255, 255, 255, 0.978);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc0000;
+}
+
+/* Footer */
+footer {
+    background-color: #1c1c1cc3;
+    color: #d01010bc;
+    text-align: center;
+    padding: 10px;
+}
